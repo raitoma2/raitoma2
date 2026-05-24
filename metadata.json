@@ -1,0 +1,6 @@
+{
+  "name": "Elite Enterprise",
+  "description": "Client management system for Elite Enterprise",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
